@@ -1,0 +1,10 @@
+<html>
+<head>
+	<title>My web Page</title> 
+</head>
+<body>
+	<h1>This is my First Web</p>
+	<h2>Heading Tag</h2>
+	<p>Paragraph is Here</p>
+</body>
+</html>

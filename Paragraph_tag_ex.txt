@@ -1,0 +1,12 @@
+<!DOCTYPE>
+<html>
+<head>
+	<title>Paragraph tag in html</title>
+</head>
+<body>
+	<h2>Paragraph Tag Examples</h2>
+	<p>This is paragraphhfgdfjgdhfghghfgdjhgdfgeiuffjhfjhgfdsjfhffjdfgffdhfgdfgdfghfjhfdffdhgfjhfgjhfgdfgjhdghfsdfgdhjfgdhfghfgfghfhfgufejegeyroeiuwyrejfbdsnbhgeytryeoirjkfdskfbhfg</p>
+</body>
+</html>
+
+<p style="background_color:pink;>papragraph tag is used to Display on webpages.</p>

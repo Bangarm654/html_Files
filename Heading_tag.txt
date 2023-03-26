@@ -1,0 +1,8 @@
+<!DOCTYPE>
+<html>
+<head>
+	<title>This is title Tags</title>
+</head>
+<body>
+	<h1>This is Heading tag h1</h1>
+</html>

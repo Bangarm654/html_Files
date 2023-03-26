@@ -1,0 +1,14 @@
+
+<html>
+<head>
+	<title>Formating Tags</title>
+</head>
+<body>
+	<h1>This is Formating Tags</h1>
+	<b>This is Bold Tag</b>
+	<i>This is Italic Tag</i>
+	<u>This is Underline Tag</u>
+	
+</body>
+
+</html>
